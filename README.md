@@ -1,0 +1,1 @@
+https://ko.reactjs.org/docs/thinking-in-react.html 따라하기
